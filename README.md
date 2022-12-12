@@ -27,6 +27,6 @@
   <a href = "benato_fabricio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-benato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/fabricio-benato)
+  ![Snake animation](https://github.com/fabricio-benato/fabricio-benato/blob/output/github-contribution-grid-snake.svg)
  
 </div>
